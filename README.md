@@ -2,7 +2,7 @@
 Here are the main tools that I've used for analyisng the EEG data. 
 
 ## Time-Frequency analysis
-A lot of my EEG processing pipeline for time-frequency analysis is inspired by [Mike X Cohen](https://www.mikexcohen.com/)'s lecturelets and book (Analysing Neural Data). 
+A lot of my EEG processing pipeline for time-frequency analysis is inspired by [Mike X Cohen](https://www.mikexcohen.com/)'s lecturelets and book ([Analyzing Neural Time Series Data: Theory and Practice](https://mitpress.mit.edu/books/analyzing-neural-time-series-data)).
 Thank you Mike.
 
 ### TF_decomposition.m
